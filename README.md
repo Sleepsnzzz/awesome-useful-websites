@@ -478,6 +478,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [InnerBody](https://www.innerbody.com/) - Research for reviews and researches about health products, services, and more.
 - [Sleep Calculator](https://sleepcalculator.com/) - Tool that helps users determine the best time to go to bed based on their desired wake-up time, optimizing sleep cycles for better rest and alertness.
 - [SimpleLab](https://gosimplelab.com/) - Provides rapid, reliable environmental testing across the U.S., using a cloud-based platform for efficient sampling, testing, and data management.
+- [Sleep Calculator](https://sleepcalculatorsnzzz.com) – A free tool that calculates optimal sleep times based on your desired wake-up time and 90-minute sleep cycles. Includes sleep personality quiz to discover your best sleep habits.
 - [Sleep Estimator](https://www.sleep-estimator.com/) - Calculates the best bedtime based on your wake-up time to optimize sleep quality and alertness.
 
 ### Air Quality
